@@ -1,4 +1,4 @@
-# Group 7 - Assignment 2 Question 2
+# Group 7 - Web Programming Assignments
 
 ## 📋 Group Members
 
@@ -17,28 +17,41 @@
 
 ---
 
-## 📝 Project Description
-This is the implementation for Assignment 2 Question 2 - News Website Layout
+## 📂 Project Structure
 
-## 🛠️ Technologies Used
+```
+GROUP 7 ASSIGNMENT WEBPROGRAMMING/
+├── ASSIGNMENT 1/               # First Assignment
+├── ASSIGNMENT 2 Question 1/    # Assignment 2 - Question 1
+├── ASSIGNMENT 2 Question 2/    # Assignment 2 - Question 2
+└── README.md                   # This file
+```
+
+---
+
+## 📝 Assignment Overview
+
+### 1. Assignment 1
+First web programming assignment implementation
+
+### 2. Assignment 2 - Question 1
+First question implementation for Assignment 2
+
+### 3. Assignment 2 - Question 2
+News website layout implementation
+- Header with logos and title
+- Navigation bar
+- 3-column responsive news cards
+- Proper styling and layout
+
+---
+
+## 🛠️ Technologies
+All assignments are built with:
 - HTML5
 - CSS3
 
-## 📂 Project Structure
-```
-ASSIGNMENT 2 Question 2/
-├── index.html      # Main HTML file
-├── style.css       # CSS styling
-└── README.md       # This file
-```
+---
 
-## ✅ Features Implemented
-1.  Header section with logos and title
-2.  Navigation bar with menu links
-3.  Responsive 3-column news card layout
-4.  Single wrapper container for navigation and content
-5.  Proper padding and spacing
-6.  White content background
-
-## 🚀 How to Run
-Open `index.html` in any modern web browser.
+## 🚀 Usage
+Open the `index.html` file inside each assignment folder in any modern web browser to view the implementation.
